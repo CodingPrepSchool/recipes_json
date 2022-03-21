@@ -1,0 +1,19 @@
+<DOCRYPE>
+    <html>
+        <head></head>
+        <body>
+            <h1></h1>
+            <br>
+            <br>
+            <p></p>
+            <br>
+            <br>
+            <ul>
+                {% for dict in recipe %}
+                    <a href="/recipe/{{ recipe['id'] }}">{{ recipe["name"] }}</a>
+                    <br>
+                {% endfor %}
+            </ul>
+        </body>
+    </html>
+</DOCRYPE>
