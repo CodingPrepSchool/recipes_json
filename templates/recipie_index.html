@@ -1,0 +1,19 @@
+<DOCTYPE>
+    <html>
+        <head>
+            <!--<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='main/recipie.css') }}">-->
+         </head>
+    <head>
+    </head>
+</div>
+<br>
+<ul>
+    {% for dict in all_recipies %}
+    <a href="/recipe/{{ dict['id'] }}">{{ dict["name"] }}</a>
+    <br>
+    {% endfor %}
+    <br>
+</ul>
+<br>
+    </html>
+</DOCTYPE>
