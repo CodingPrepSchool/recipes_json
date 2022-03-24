@@ -1,0 +1,16 @@
+<DOCTYPE>
+    <html>
+        <body>
+            <a href="/">Back To Main Screen</a>
+            <br>
+            <br>
+            {% for submition in recipieA %}
+                        <h1>{{submition.name}}</h1>
+                        <br>
+                        <p>{{submition.ingrediants}}</p>
+                        <br>
+                        <p>{{submition.instructions}}</p>
+            {% endfor %}
+        </body>
+    </html>
+</DOCTYPE>

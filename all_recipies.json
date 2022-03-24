@@ -5,7 +5,7 @@
       "ingredients": [
         "2 tablespoons extra-virgin olive oil",
         "1 minced shallot",
-        "¼ pound white or cremini mushrooms",
+        "\u00bc pound white or cremini mushrooms",  
         "rinsed briefly and wiped dry",
         "Salt",
         "freshly ground pepper (to taste)",
@@ -52,38 +52,6 @@
         "Butter a second slice of bread on one side and place butter-side-up on top of sandwich.",
         "Grill until lightly browned and flip over; continue grilling until cheese is melted.",
         "Repeat with remaining 2 slices of bread, butter and slice of cheese."
-      ]
-    },
-    {
-      "id": 4,
-      "name": [
-        "cherry pie"
-      ],
-      "ingredients": [
-        "cherries",
-        " unicorns",
-        " tomatoes",
-        " crust"
-      ],
-      "instructions": [
-        "boil the unicorn",
-        " add cherries and tomatoes",
-        " pour it in crust",
-        " bake "
-      ]
-    },
-    {
-      "id": 5,
-      "name": "cherry pie",
-      "ingredients": [
-        "cherries",
-        " unicorn",
-        " tomatoes"
-      ],
-      "instructions": [
-        "hjk",
-        " oiu",
-        " zgf"
       ]
     }
   ]
